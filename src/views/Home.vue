@@ -7,9 +7,7 @@
     </div>
     <p>Welcome to the #1 NFT Staking solution on Solana!</p>
     <p class="mt-5">
-      This front-end is primarily designed for the Farm Manager (most likely the
-      dev behind the NFT project). You probably want to build a nicer front-end
-      for your stakers.
+      This interface is primarily intended for testing and farm management. You probably want to create a nicer interface for your speakers.
     </p>
     <p class="mt-5">
       That said, if you're a staker, in theory nothing is stopping you from
